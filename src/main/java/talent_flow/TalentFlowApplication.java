@@ -1,4 +1,4 @@
-package talent_flow.talent_flow;
+package talent_flow;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
