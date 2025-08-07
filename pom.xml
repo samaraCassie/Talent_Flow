@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>talent_flow</groupId>
-    <artifactId>Talent_FLow</artifactId>
+    <artifactId>Talent_Flow</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>Talent_FLow</name>
-    <description>Talent_FLow</description>
+    <name>Talent_Flow</name>
+    <description>Talent_Flow</description>
     <url/>
     <licenses>
         <license/>
